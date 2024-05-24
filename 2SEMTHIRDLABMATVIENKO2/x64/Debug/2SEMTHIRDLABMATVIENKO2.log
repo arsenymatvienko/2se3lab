@@ -1,0 +1,9 @@
+﻿  2SEMTHIRDLABMATVIENKO2.cpp
+D:\progs\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2.cpp(123,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\progs\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2.cpp(217,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\progs\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2.cpp(211,12): warning C4101: stack: неиспользованная локальная переменная
+D:\progs\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2.cpp(277,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\progs\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2.cpp(408,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\progs\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2.cpp(38): warning C4715: priorityPolish: значение возвращается не при всех путях выполнения
+D:\progs\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2\2SEMTHIRDLABMATVIENKO2.cpp(27): warning C4715: priorityPolishReversed: значение возвращается не при всех путях выполнения
+  2SEMTHIRDLABMATVIENKO2.vcxproj -> D:\progs\2SEMTHIRDLABMATVIENKO2\x64\Debug\2SEMTHIRDLABMATVIENKO2.exe
